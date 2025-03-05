@@ -1,2 +1,0 @@
-a="karthik"
-print(a)
